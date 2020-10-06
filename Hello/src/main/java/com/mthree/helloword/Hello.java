@@ -1,6 +1,6 @@
 /**
- *@author Francine Faida
- *email: faidafr@gmail.com
+ *@author Inconnu
+ *email: TBD
  *date: october5,2020
  *purpose: My first Hello World program in an IDE
  */
@@ -10,6 +10,6 @@ package com.mthree.helloworld;
 
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello, Francine Faida");
+        System.out.println("Hello, World");
     }
 }
